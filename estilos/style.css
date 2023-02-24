@@ -6,14 +6,9 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-::-webkit-scrollbar{
-    width: 0px;
-    height: 0px;
-}
-
 html, body {
     height: 100vh;
-    width: 100vw;
+    width: 98.5vw;
     background-color: black;
 }
 
@@ -46,7 +41,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 267px;
+    width: 269px;
     height: 471px;
 }
 
